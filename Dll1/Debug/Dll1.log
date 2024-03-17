@@ -1,0 +1,5 @@
+﻿  dllmain.cpp
+F:\VS Projects\gui Reestr\gui v2\Dll1\dllmain.cpp(172,11): warning C4101: cbNeeded: неиспользованная локальная переменная
+F:\VS Projects\gui Reestr\gui v2\Dll1\dllmain.cpp(174,18): warning C4101: i: неиспользованная локальная переменная
+F:\VS Projects\gui Reestr\gui v2\Dll1\dllmain.cpp(173,11): warning C4101: cProcesses: неиспользованная локальная переменная
+  Dll1.vcxproj -> F:\VS Projects\gui Reestr\gui v2\Debug\Dll1.dll

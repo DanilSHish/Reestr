@@ -1,0 +1,17 @@
+C:\Users\densa\Desktop\gui v2\gui v2\Debug\gui v2.vcxproj.AssemblyReference.cache
+C:\Users\densa\Desktop\gui v2\gui v2\Debug\guiv2.MyForm.resources
+C:\Users\densa\Desktop\gui v2\gui v2\Debug\gui v2.vcxproj.GenerateResource.cache
+C:\Users\densa\Desktop\All Task projects\gui v2\gui v2\Debug\gui v2.vcxproj.AssemblyReference.cache
+C:\Users\densa\Desktop\All Task projects\gui v2\gui v2\Debug\guiv2.MyForm.resources
+C:\Users\densa\Desktop\All Task projects\gui v2\gui v2\Debug\gui v2.vcxproj.GenerateResource.cache
+C:\Users\Danil\Desktop\gui v2\gui v2\Debug\guiv2.MyForm.resources
+C:\Users\Danil\Desktop\gui v2\gui v2\Debug\gui v2.vcxproj.GenerateResource.cache
+C:\Users\densa\Desktop\All Task projects\gui_v2\gui v2\gui v2\Debug\gui v2.vcxproj.AssemblyReference.cache
+C:\Users\densa\Desktop\All Task projects\gui_v2\gui v2\gui v2\Debug\guiv2.MyForm.resources
+C:\Users\densa\Desktop\All Task projects\gui_v2\gui v2\gui v2\Debug\gui v2.vcxproj.GenerateResource.cache
+C:\Users\densa\Desktop\All Task projects\gui Reestr\gui v2\gui v2\Debug\gui v2.vcxproj.AssemblyReference.cache
+C:\Users\densa\Desktop\All Task projects\gui Reestr\gui v2\gui v2\Debug\guiv2.MyForm.resources
+C:\Users\densa\Desktop\All Task projects\gui Reestr\gui v2\gui v2\Debug\gui v2.vcxproj.GenerateResource.cache
+F:\VS Projects\gui Reestr\gui v2\gui v2\Debug\gui v2.vcxproj.AssemblyReference.cache
+F:\VS Projects\gui Reestr\gui v2\gui v2\Debug\guiv2.MyForm.resources
+F:\VS Projects\gui Reestr\gui v2\gui v2\Debug\gui v2.vcxproj.GenerateResource.cache

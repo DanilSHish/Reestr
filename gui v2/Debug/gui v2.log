@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+F:\VS Projects\gui Reestr\gui v2\gui v2\MyForm.h(183,31): warning C4018: <: несоответствие типов со знаком и без знака
+F:\VS Projects\gui Reestr\gui v2\gui v2\MyForm.h(227,29): warning C4018: <: несоответствие типов со знаком и без знака
+F:\VS Projects\gui Reestr\gui v2\gui v2\MyForm.h(204,8): warning C4101: Bufffer_for_Read: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  gui v2.vcxproj -> F:\VS Projects\gui Reestr\gui v2\Debug\gui v2.exe
